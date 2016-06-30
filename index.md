@@ -1,10 +1,17 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+Hey there, welcome to my blog. I like to consider myself as a Web Engineer, focusing my mind on WordPress development. I have co-founded
+[iPanelThemes Web Solutions Pvt. Ltd.](https://ipanelthemes.com) with my good friend [Akash Ghosh](http://akashghosh.me).
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+WordPress Theme and Plugin development are two my strongest skills. It needlessly explains my proficiency in PHP, MySQL, jQuery/JS, CSS and HTML.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Apart from WordPress, I also like to find my way around System Administration stuff, like installing and managing full LAMP stack. You can
+read more about it in my first blog [inTechGrity](http://www.intechgrity.com).
+
+When I am not doing these things, I am usually playing with my buddy Scooby, or riding my Motor Cycle.
+
+> PS: Checkout my [Open Source Projects](https://github.com/swashata).
+
