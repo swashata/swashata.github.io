@@ -1,6 +1,6 @@
 # Site
-title: Swashata Ghosh - Web Developer, WordPress Geek, a friend & a dog lover
-description: The personal website of Swashata Ghosh, founder director of iPanelThemes Web Solutions Pvt. Ltd.
+title: Swashata Ghosh
+description: Web Developer, WordPress Geek, a friend & a dog lover, founder director of iPanelThemes Web Solutions Pvt. Ltd.
 url: https://swashata.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -33,7 +33,7 @@ email:             swashata@iptms.co
 #google.plus:        username
 twitter:            swashata
 facebook:           swashata
-github:             username
+github:             swashata
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
